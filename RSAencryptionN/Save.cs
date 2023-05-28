@@ -11,7 +11,7 @@ namespace RSA_Encryption_Decryption
     internal class Save
     {
         private static string Filename;
-        private string path = "C:\\Users\\Niko\\source\\repos\\RSAencryptionN\\RSAencryptionN\\encryptedfile.txt";
+        private string path = "C:\\Users\\t430\\Source\\Repos\\RSAencryptionN\\RSAencryptionN\\encryptedfile.txt";
         bool Mode = true;
 
 

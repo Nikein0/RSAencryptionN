@@ -97,7 +97,7 @@ namespace RSA_Encryption_Decryption
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var reader = new TextFileReader("C:\\Users\\Niko\\source\\repos\\RSAencryptionN\\RSAencryptionN\\encryptedfile.txt");
+            var reader = new TextFileReader("C:\\Users\\t430\\Source\\Repos\\RSAencryptionN\\RSAencryptionN\\encryptedfile.txt");
             var lines = reader.ReadLines();
 
             foreach (var line in lines)
